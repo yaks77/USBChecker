@@ -1,0 +1,38 @@
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\USBChecker.csprojResolveAssemblyReference.cache
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\USBChecker.Properties.Resources.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\USBChecker.csproj.GenerateResource.Cache
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\USBChecker.DetectorForm.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\USBChecker.Configuration.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\USBChecker.exe.config
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\USBChecker.exe
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\USBChecker.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\UsbEject.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\System.Net.IPNetwork.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\UsbEject.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\USBChecker.exe
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\USBChecker.pdb
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\bin\Debug\USBChecker.exe.config
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\obj\Debug\USBChecker.exe
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\obj\Debug\USBChecker.pdb
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\obj\Debug\USBChecker.csprojResolveAssemblyReference.cache
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\obj\Debug\USBChecker.Configuration.resources
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\obj\Debug\USBChecker.DetectorForm.resources
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\obj\Debug\USBChecker.Properties.Resources.resources
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\obj\Debug\USBChecker.csproj.GenerateResource.Cache
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\bin\Debug\USBChecker.exe
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\bin\Debug\USBChecker.pdb
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\bin\Debug\UsbEject.dll
+C:\Users\susi\Source\Repos\USBChecker\USBCheckerTray\bin\Debug\UsbEject.pdb
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\bin\Debug\USBChecker.exe.config
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\obj\Debug\USBChecker.exe
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\obj\Debug\USBChecker.pdb
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\bin\Debug\USBChecker.exe
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\bin\Debug\USBChecker.pdb
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\bin\Debug\UsbEject.dll
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\bin\Debug\UsbEject.pdb
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\obj\Debug\USBChecker.csprojResolveAssemblyReference.cache
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\obj\Debug\USBChecker.Configuration.resources
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\obj\Debug\USBChecker.DetectorForm.resources
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\obj\Debug\USBChecker.Properties.Resources.resources
+C:\Users\susi\Source\Repos\Checker\USBCheckerTray\obj\Debug\USBChecker.csproj.GenerateResource.Cache

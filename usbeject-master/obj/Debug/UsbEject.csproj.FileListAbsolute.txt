@@ -1,0 +1,5 @@
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\usbeject-master\bin\Debug\UsbEject.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\usbeject-master\bin\Debug\UsbEject.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\usbeject-master\obj\Debug\UsbEject.csprojResolveAssemblyReference.cache
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\usbeject-master\obj\Debug\UsbEject.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\usbeject-master\obj\Debug\UsbEject.pdb

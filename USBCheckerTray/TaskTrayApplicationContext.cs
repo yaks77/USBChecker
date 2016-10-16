@@ -202,8 +202,8 @@ namespace USBChecker
                     
                     _notifyIcon.BalloonTipIcon = ToolTipIcon.Error;
                 }
-
-                _notifyIcon.ShowBalloonTip(8000);
+            _notifyIcon.BalloonTipText = message;
+            _notifyIcon.ShowBalloonTip(8000);
                 // _notifyIcon.Dispose();
         }
 

@@ -1,0 +1,30 @@
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\UsbEject.dll
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\UsbEject.pdb
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.csprojResolveAssemblyReference.cache
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.Configuration.resources
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.DetectorForm.resources
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.csproj.GenerateResource.Cache
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\KioskCheckerTray.exe.config
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.Properties.Resources.resources
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\KioskCheckerTray.exe
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\KioskCheckerTray.pdb
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.exe
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\KioskCheckerTray.exe.config
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.exe
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\KioskCheckerTray.exe
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\KioskCheckerTray.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\UsbEject.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\System.Net.IPNetwork.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Debug\UsbEject.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.csprojResolveAssemblyReference.cache
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.Configuration.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.DetectorForm.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.Properties.Resources.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Debug\KioskCheckerTray.csproj.GenerateResource.Cache
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\KioskCheckerTray.exe.config
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\KioskCheckerTray.exe
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\obj\Debug\KioskCheckerTray.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\USBChecker\USBChecker\KioskCheckerTray\bin\Debug\USBChecker.exe.config

@@ -1,0 +1,52 @@
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\bin\Release\TaskTrayApplication.exe.config
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\obj\Release\TaskTrayApplication.exe
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\obj\Release\TaskTrayApplication.pdb
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\bin\Release\TaskTrayApplication.exe
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\bin\Release\TaskTrayApplication.pdb
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\bin\Release\UsbEject.dll
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\bin\Release\UsbEject.pdb
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\obj\Release\KioskCheckerTray.csprojResolveAssemblyReference.cache
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\obj\Release\KioskCheckerTray.Configuration.resources
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\obj\Release\KioskCheckerTray.DetectorForm.resources
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\obj\Release\TaskTrayApplication.Properties.Resources.resources
+C:\temp\KioskChecker\TaskTrayApplication\TaskTrayApplication\obj\Release\KioskCheckerTray.csproj.GenerateResource.Cache
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.exe.config
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.exe
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.pdb
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\UsbEject.dll
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\UsbEject.pdb
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.csprojResolveAssemblyReference.cache
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.Configuration.resources
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.DetectorForm.resources
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.Properties.Resources.resources
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.csproj.GenerateResource.Cache
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.exe
+C:\temp\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.pdb
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.exe.config
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.exe
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.pdb
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\System.Net.IPNetwork.dll
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\UsbEject.dll
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\System.Net.IPNetwork.pdb
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\UsbEject.pdb
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.csprojResolveAssemblyReference.cache
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.Configuration.resources
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.DetectorForm.resources
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.Properties.Resources.resources
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.csproj.GenerateResource.Cache
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.exe
+\\eeas.europa.eu\BRU\home\cortijo\Documents\ICT Secutiry Projects\Project - Hardening Workstation Security\Action - EEAS KIOSK\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.exe.config
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.exe
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.exe
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\KioskCheckerTray.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\System.Net.IPNetwork.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\UsbEject.dll
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\System.Net.IPNetwork.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\bin\Release\UsbEject.pdb
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.csprojResolveAssemblyReference.cache
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.Configuration.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.DetectorForm.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.Properties.Resources.resources
+C:\Users\susi\Documents\Visual Studio 2015\Projects\KioskChecker\KioskCheckerTray\KioskCheckerTray\obj\Release\KioskCheckerTray.csproj.GenerateResource.Cache
