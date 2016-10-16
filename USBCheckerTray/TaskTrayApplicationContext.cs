@@ -214,6 +214,7 @@ namespace USBChecker
             _notifyIcon.Visible = true;
             //_notifyIcon.Icon = SystemIcons.Shield;
             _notifyIcon.BalloonTipIcon = ToolTipIcon.Info;
+            _notifyIcon.BalloonTipText = message;
             _notifyIcon.ShowBalloonTip(8000);
 
         }
